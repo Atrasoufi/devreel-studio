@@ -1,0 +1,6 @@
+{
+  "name": "DevReel Studio",
+  "description": "AI-powered educational video creation studio transforming Python and Django lessons, notes, and code into engaging Instagram Reels with Persian narration and bilingual subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
